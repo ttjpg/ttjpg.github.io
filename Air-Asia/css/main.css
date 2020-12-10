@@ -431,37 +431,37 @@ header {
 }
 
 .socials__item--icon--telegram .socials__link {
-  background-image: url(/img/icons/socials/telegram.png);
+  background-image: url(./img/icons/socials/telegram.png);
 }
 
 .socials__item--icon--telegram .socials__link:hover {
-  background-image: url(/img/icons/socials/telegram.png);
+  background-image: url(./img/icons/socials/telegram.png);
   filter: invert(1.1);
 }
 
 .socials__item--icon--vk .socials__link {
-  background-image: url(/img/icons/socials/vk.png);
+  background-image: url(./img/icons/socials/vk.png);
 }
 
 .socials__item--icon--vk .socials__link:hover {
-  background-image: url(/img/icons/socials/vk.png);
+  background-image: url(./img/icons/socials/vk.png);
   filter: invert(1.1);
 }
 
 .socials__item--icon--fb .socials__link {
-  background-image: url(/img/icons/socials/f.png);
+  background-image: url(./img/icons/socials/f.png);
 }
 
 .socials__item--icon--fb .socials__link:hover {
-  background-image: url(/img/icons/socials/f.png);
+  background-image: url(./img/icons/socials/f.png);
   filter: invert(1.1);
 }
 
 .socials__item--icon--insta .socials__link {
-  background-image: url(/img/icons/socials/in.png);
+  background-image: url(./img/icons/socials/in.png);
 }
 
 .socials__item--icon--insta .socials__link:hover {
-  background-image: url(/img/icons/socials/in.png);
+  background-image: url(./img/icons/socials/in.png);
   filter: invert(1.1);
 }
